@@ -6,3 +6,5 @@ echo 456;
 echo 789;
 
 echo 333;
+
+echo 789;
